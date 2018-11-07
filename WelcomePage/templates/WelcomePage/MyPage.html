@@ -1,0 +1,15 @@
+{% extends "global/Page.html" %}
+{% load staticfiles otree %}
+
+{% block title %}
+   Welcome!
+{% endblock %}
+
+{% block content %}
+<p>
+    Welcome to this experiment. Please click the "Next" button.
+</p>
+
+    {% next_button %}
+
+{% endblock %}
