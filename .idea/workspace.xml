@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7ed58e6-a89b-4cc1-9855-f30c4f76d6e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcceptanceCurse/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/AcceptanceCurse/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcceptanceCurse/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/AcceptanceCurse/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AcceptanceCurse/templates/AcceptanceCurse/FinalPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/AcceptanceCurse/templates/AcceptanceCurse/FinalPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINEEXPage/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/LINEEXPage/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/crt/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/crt/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/templates/crt/Page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/crt/templates/crt/Page1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/templates/crt/Results.html" beforeDir="false" afterPath="$PROJECT_DIR$/crt/templates/crt/Results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalpage/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/finalpage/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructions/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructions/templates/instructions/Page2.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/templates/instructions/Page2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructions/templates/instructions/Page9.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/templates/instructions/Page9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/templates/mpl/Results.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/templates/mpl/Results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements_base.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements_base.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="f7ed58e6-a89b-4cc1-9855-f30c4f76d6e6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +21,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="40" />
-          <entry key="py" value="45" />
+          <entry key="py" value="46" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
@@ -51,7 +29,7 @@
         <counts>
           <entry key="HTML" value="40" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -91,6 +69,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#134#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
@@ -107,7 +97,7 @@
         <entry file="file://$PROJECT_DIR$/requirements_base.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -215,6 +205,11 @@
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
+              <item name="AcceptanceCurse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
@@ -612,16 +607,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#134#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -629,28 +614,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
-          <folding>
-            <element signature="e#458#464#0" expanded="true" />
-            <element signature="e#494#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LINEEXPage/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/finalpage/pages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -666,10 +633,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+          <folding>
+            <element signature="e#458#464#0" expanded="true" />
+            <element signature="e#494#501#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/finalpage/pages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/requirements_base.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
