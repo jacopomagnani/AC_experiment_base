@@ -18,7 +18,7 @@ Matching Game with noisy signals
 class Constants(BaseConstants):
     name_in_url = 'game'
     players_per_group = 2
-    num_rounds = 60
+    num_rounds = 1#60
     game_space = [0, 1]
     game_labels = ["A", "B"]
     game_sequence = [0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0,
@@ -104,6 +104,7 @@ class Group(BaseGroup):
             p.points = p.match * match_value[p.partner_type-1] + (1 - p.match) * reservation_value[p.type-1]
             if self.subsession.round_number == self.session.vars['paying_round']:
                 p.payoff = p.points
+                p.participant.vars['part1_payoff'] = p.points
             else:
                 p.payoff = c(0)
 
