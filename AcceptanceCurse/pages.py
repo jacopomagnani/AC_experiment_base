@@ -50,7 +50,8 @@ class FinalPage(Page):
 
     def vars_for_template(self):
         return {
-            'paying_round': self.session.vars['paying_round']
+            'paying_round': self.session.vars['paying_round'],
+            'part1_payoff': self.participant.vars['part1_payoff']
         }
 
 
