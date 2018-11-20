@@ -122,9 +122,7 @@
 
 {% block styles %}
     <style>
-        .otree-timer {
-            display: none;
-        }
+
         .column {
             float: left;
             width: 50%;
@@ -147,15 +145,5 @@
 
 {% endblock %}
 
-{% block scripts %}
-    <script>
-        $(function () {
-            $('.otree-timer__time-left').on('update.countdown', function (event) {
-                if (event.offset.totalSeconds === 5) {
-                    $('.otree-timer').show();
-                }
-            });
-        });
-    </script>
-{% endblock %}
+
 
