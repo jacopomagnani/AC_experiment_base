@@ -17,7 +17,7 @@ class MyWaitPage1(WaitPage):
 
 class Page1(Page):
 
-    timeout_seconds = 60
+    timeout_seconds = 120
 
     form_model = 'player'
     form_fields = ['choice']
@@ -40,7 +40,7 @@ class MyWaitPage2(WaitPage):
 
 class Page2(Page):
 
-    timeout_seconds = 10
+    timeout_seconds = 120
 
 
 class FinalPage(Page):
