@@ -65,6 +65,10 @@ ROOMS = [
 #   anybody can play a demo version of your game, but not access the rest
 #   of the admin interface, set it to DEMO.
 
+os.environ['OTREE_PRODUCTION'] = "1"
+os.environ['OTREE_AUTH_LEVEL'] = "STUDY"
+os.environ['OTREE_ADMIN_PASSWORD'] = "######"
+
 # for flexibility, you can set it in the environment variable OTREE_AUTH_LEVEL
 AUTH_LEVEL = environ.get('OTREE_AUTH_LEVEL')
 
@@ -75,6 +79,7 @@ ADMIN_PASSWORD = environ.get('OTREE_ADMIN_PASSWORD')
 
 # Consider '', None, and '0' to be empty/false
 DEBUG = (environ.get('OTREE_PRODUCTION') in {None, '', '0'})
+
 
 DEMO_PAGE_INTRO_HTML = """
 <ul>
