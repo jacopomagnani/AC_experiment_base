@@ -10,6 +10,7 @@ class Intro(Page):
 
 
 class MyWaitPage1(WaitPage):
+    #wait_for_all_groups = True
 
     def after_all_players_arrive(self):
         self.group.initialize_group()
@@ -31,6 +32,7 @@ class Page1(Page):
 
 
 class MyWaitPage2(WaitPage):
+    #wait_for_all_groups = True
 
     def after_all_players_arrive(self):
         self.group.get_outcome()
