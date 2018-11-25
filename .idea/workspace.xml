@@ -5,14 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcceptanceCurse/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/AcceptanceCurse/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AcceptanceCurse/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/AcceptanceCurse/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/crt/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crt/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/crt/pages.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/pages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/survey/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/survey/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/survey/pages.py" beforeDir="false" afterPath="$PROJECT_DIR$/survey/pages.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+            <state relative-caret-position="38">
+              <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
               <folding>
                 <element signature="e#0#134#0" expanded="true" />
               </folding>
@@ -43,13 +36,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AcceptanceCurse/pages.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="585">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding>
-                <marker date="1543122802359" expanded="true" signature="1014:1026" ph="..." />
+                <marker date="1543130668182" expanded="true" signature="1022:1034" ph="..." />
               </folding>
             </state>
           </provider>
@@ -112,7 +105,6 @@
         <option value="$PROJECT_DIR$/Practice/templates/Practice/Page2.html" />
         <option value="$PROJECT_DIR$/Practice/models.py" />
         <option value="$PROJECT_DIR$/Practice/pages.py" />
-        <option value="$PROJECT_DIR$/AcceptanceCurse/pages.py" />
         <option value="$PROJECT_DIR$/mpl/models.py" />
         <option value="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" />
         <option value="$PROJECT_DIR$/crt/models.py" />
@@ -121,6 +113,7 @@
         <option value="$PROJECT_DIR$/survey/pages.py" />
         <option value="$PROJECT_DIR$/mpl/pages.py" />
         <option value="$PROJECT_DIR$/AcceptanceCurse/models.py" />
+        <option value="$PROJECT_DIR$/AcceptanceCurse/pages.py" />
       </list>
     </option>
   </component>
@@ -575,22 +568,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/pages.py">
+    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="38">
+          <caret line="90" column="35" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
           <folding>
-            <marker date="1543122802359" expanded="true" signature="1014:1026" ph="..." />
+            <element signature="e#0#134#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
+    <entry file="file://$PROJECT_DIR$/AcceptanceCurse/pages.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="585">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding>
-            <element signature="e#0#134#0" expanded="true" />
+            <marker date="1543130668182" expanded="true" signature="1022:1034" ph="..." />
           </folding>
         </state>
       </provider>
