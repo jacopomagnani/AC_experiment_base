@@ -18,7 +18,7 @@ Matching Game with noisy signals
 class Constants(BaseConstants):
     name_in_url = 'game'
     players_per_group = 2
-    num_rounds = 60
+    num_rounds = 2#60
     game_space = [0, 1]
     game_labels = ["A", "B"]
     game_sequence = [0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0,
@@ -56,6 +56,8 @@ class Subsession(BaseSubsession):
         for i in range(0, len(players), ppg):
             group_matrix.append(players[i:i + ppg])
         self.set_group_matrix(group_matrix)
+
+
 
 
 class Group(BaseGroup):
@@ -119,7 +121,8 @@ class Player(BasePlayer):
             [1, 'Yes'],
             [0, 'No'],
         ],
-        widget=widgets.RadioSelectHorizontal
+        widget=widgets.RadioSelectHorizontal,
+        blank=True
     )
     partner_choice = models.IntegerField()
     match = models.IntegerField()

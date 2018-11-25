@@ -21,6 +21,11 @@ class Page1(Page):
     form_model = 'player'
     form_fields = ['choice']
 
+    def choice_error_message(self, value):
+        print('value is', value)
+        if value is None:
+            return 'Please select one of the options.'
+
     def before_next_page(self):
         if self.timeout_happened:
             self.player.late = 1
