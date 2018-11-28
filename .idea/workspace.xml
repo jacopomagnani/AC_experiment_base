@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ed58e6-a89b-4cc1-9855-f30c4f76d6e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crt/templates/crt/Page1.html" beforeDir="false" afterPath="$PROJECT_DIR$/crt/templates/crt/Page1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +22,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
+        <entry file="file://$PROJECT_DIR$/crt/templates/crt/Page1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="77" column="110" selection-start-line="77" selection-start-column="110" selection-end-line="77" selection-end-column="110" />
+            <state relative-caret-position="540">
+              <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+              <folding>
+                <element signature="e#494#500#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,7 +74,6 @@
         <option value="$PROJECT_DIR$/instructions/pages.py" />
         <option value="$PROJECT_DIR$/instructions/templates/instructions/Page9.html" />
         <option value="$PROJECT_DIR$/mpl/templates/mpl/Results.html" />
-        <option value="$PROJECT_DIR$/crt/templates/crt/Page1.html" />
         <option value="$PROJECT_DIR$/crt/templates/crt/Results.html" />
         <option value="$PROJECT_DIR$/finalpage/templates/finalpage/MyPage.html" />
         <option value="$PROJECT_DIR$/finalpage/pages.py" />
@@ -96,6 +98,7 @@
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/instructions/templates/instructions/Page8.html" />
         <option value="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" />
+        <option value="$PROJECT_DIR$/crt/templates/crt/Page1.html" />
       </list>
     </option>
   </component>
@@ -120,24 +123,6 @@
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="mpl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="mpl" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="mpl" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="mpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +170,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="117" width="1528" height="811" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14731254" />
       <window_info id="Structure" order="1" weight="0.24941176" />
@@ -405,16 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crt/templates/crt/Page1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#494#500#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/finalpage/pages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -566,6 +540,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="69" column="3" lean-forward="true" selection-start-line="69" selection-start-column="3" selection-end-line="69" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -573,10 +554,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
+    <entry file="file://$PROJECT_DIR$/crt/templates/crt/Page1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="77" column="110" selection-start-line="77" selection-start-column="110" selection-end-line="77" selection-end-column="110" />
+        <state relative-caret-position="540">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="e#494#500#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
