@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7ed58e6-a89b-4cc1-9855-f30c4f76d6e6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructions/templates/instructions/Page8.html" beforeDir="false" afterPath="$PROJECT_DIR$/instructions/templates/instructions/Page8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" beforeDir="false" afterPath="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,20 +21,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/instructions/pages.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-201">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/instructions/templates/instructions/Page8.html">
+        <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+            <state relative-caret-position="317">
+              <caret line="77" column="110" selection-start-line="77" selection-start-column="110" selection-end-line="77" selection-end-column="110" />
             </state>
           </provider>
         </entry>
@@ -96,7 +86,6 @@
         <option value="$PROJECT_DIR$/Practice/models.py" />
         <option value="$PROJECT_DIR$/Practice/pages.py" />
         <option value="$PROJECT_DIR$/mpl/models.py" />
-        <option value="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" />
         <option value="$PROJECT_DIR$/crt/models.py" />
         <option value="$PROJECT_DIR$/survey/models.py" />
         <option value="$PROJECT_DIR$/crt/pages.py" />
@@ -106,6 +95,7 @@
         <option value="$PROJECT_DIR$/AcceptanceCurse/models.py" />
         <option value="$PROJECT_DIR$/settings.py" />
         <option value="$PROJECT_DIR$/instructions/templates/instructions/Page8.html" />
+        <option value="$PROJECT_DIR$/mpl/templates/mpl/Decision.html" />
       </list>
     </option>
   </component>
@@ -134,20 +124,20 @@
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="mpl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="mpl" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AC_experiment_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="AC_experiment_base" type="462c0819:PsiDirectoryNode" />
-              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="mpl" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="instructions" type="462c0819:PsiDirectoryNode" />
+              <item name="mpl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -518,16 +508,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="202" column="82" selection-start-line="201" selection-start-column="36" selection-end-line="202" selection-end-column="82" />
-          <folding>
-            <element signature="e#11189#11195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AcceptanceCurse/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -565,13 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/instructions/templates/instructions/Page6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -590,6 +563,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mpl/templates/mpl/Decision.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="77" column="110" selection-start-line="77" selection-start-column="110" selection-end-line="77" selection-end-column="110" />
         </state>
       </provider>
     </entry>
